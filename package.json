@@ -1,0 +1,32 @@
+{
+  "name": "quiz-h20",
+  "version": "1.0.1",
+  "description": "A quiz is a structured assessment tool designed to test knowledge or skills on a particular subject matter.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "quiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["assessment",
+   "knowledge",
+   "skills",
+   "test", 
+   "questions", 
+   "answers", 
+   "competition", 
+   "learning",
+   "challenge",
+   "game",
+   "score"],
+  "author": "Hiba M.Dawood",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.20",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
