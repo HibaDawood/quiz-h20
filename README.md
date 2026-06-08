@@ -1,6 +1,6 @@
 # 🧠 CLI Trivia Quiz Application
-
 [![npm version](https://img.shields.io/npm/v/quiz-h20.svg?style=flat-square)](https://www.npmjs.com/package/quiz-h20)
+
 An interactive command-line quiz application built with TypeScript and Node.js. It dynamically fetches live trivia questions from an external API and tracks user performance.
 
 ---
