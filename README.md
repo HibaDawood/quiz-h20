@@ -1,4 +1,6 @@
 # 🧠 CLI Trivia Quiz Application
+   Run this application directly via terminal using:
+         ```npx quiz-h20```
 
 An interactive command-line quiz application built with TypeScript and Node.js. It dynamically fetches live trivia questions from an external API and tracks user performance.
 
@@ -17,18 +19,5 @@ An interactive command-line quiz application built with TypeScript and Node.js. 
 
 * **Language:** TypeScript / Node.js
 * **Dependencies:** `inquirer` (User input), `chalk` (Terminal styling), `node-fetch` (API requests)
-
----
-
-## 🚀 How to Run & Use
-
-1. Clone or download this repository.
-2. Open your terminal in the project folder and install the dependencies:
-   ```bash
-   npm install
-3. Run the quiz application using the following command:
-
-```bash
-npx tsc && node index.js
 
 
